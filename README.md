@@ -1,5 +1,5 @@
 To use, you have to go through
--Banking Learning App
--myreactapp
--dist
+-Banking Learning App >
+-myreactapp >
+-dist >
 -index.html
